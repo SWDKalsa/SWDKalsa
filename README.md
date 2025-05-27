@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi people on the internet 👋
+👨‍💻 About Me
 
-<!--
-**SWDKalsa/SWDKalsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💡 passionate full-stack dev
+  🧠 love building dynamic, interactive applications — from mobile apps in Expo to web apps in React.
+  🧪 experienced with Cypress, Playwright, and PactumJS — I enjoy breaking things just to make them **stronger**
+  🐍 python enthusiast – especially for scripting, scraping, and AI-assisted tools  
+  🚀 shipped Mepetko, a pet care mobile app, live on the App Store and Google Play
+  🕹️ Exploring Unity to bring my game ideas to life with C#
+  
+🔧 Technologies I Work With
