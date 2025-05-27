@@ -1,7 +1,7 @@
 ## Hi people on the internet 👋
 👨‍💻 About Me
 
-  💡 passionate full-stack dev
+  💡 passionate full-stack dev<br>
   🧠 love building dynamic, interactive applications — from mobile apps in Expo to web apps in React.
   🧪 experienced with Cypress, Playwright, and PactumJS — I enjoy breaking things just to make them **stronger**
   🐍 python enthusiast – especially for scripting, scraping, and AI-assisted tools  
